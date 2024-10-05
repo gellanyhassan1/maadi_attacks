@@ -1,4 +1,3 @@
-https://docs.google.com/document/d/1DgHcZmQkK7mwKqBlaWQR2Fnxb8AA76WCRWYhmGad9BU/edit?usp=sharing
 stolen my phone number : 00201016029799 from vodafone attacker  to hacking my facebook,google,github,gitlab,etc 
 stolen my phone number : 00201147766447 from etisalte  attacker to hacking my facebook,google,github,gitlab,etc 
 https://github.com/gellanyhassan1/maadi_attacks
@@ -189,6 +188,7 @@ ASN: AS 216014 ( BestDC Limited )
 While investigating the exploitations, researchers identified several online profiles associated with private Facebook groups that deal with VoIP, and more specifically, SIP server exploitation. After close examination of the admins, active users and carriers seen in the Facebook groups, we found that most of them were located in Gaza, the West Bank and Egypt.
 https://otx.alienvault.com/indicator/ip/45.143.220.116
 https://research.checkpoint.com/2020/inj3ctor3-operation-leveraging-asterisk-servers-for-monetization/
+https://scribesecurity.com/blog/using-the-3cx-desktop-app-attack-to-illustrate-the-importance-of-signing-and-verifying-software/
 
 RoIP Wireshark POC
 (filter or regex in Wireshark search : noise)
