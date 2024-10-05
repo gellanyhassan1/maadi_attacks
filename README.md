@@ -153,6 +153,11 @@ https://book.hacktricks.xyz/network-services-pentesting/pentesting-voip
 https://www.splunk.com/en_us/blog/security/take-a-sip-a-refreshing-look-at-subject-interface-packages.html
 https://github.com/g0ldbug/bgp-hijacking/tree/master/countermeasure
 https://medium.com/tenable-techblog/grandstream-pbx-hacking-29f61c0d9179
+Looking for a free security toolset to test your SIP infrastructure?
+How to install: sudo apt install sipvicious
+https://www.kali.org/tools/sipvicious/
+https://www.enablesecurity.com/sipvicious/
+https://github.com/EnableSecurity/sipvicious/tree/master
 #maadi_subvert_trust_controls_sip_and_trust_provider_hijacking
 Adversaries may tamper with SIP and trust provider components to mislead the operating system and application control tools when conducting signature validation checks. In user mode, Windows Authenticode [1] digital signatures are used to verify a file's origin and integrity, variables that may be used to establish trust in signed code (ex: a driver with a valid Microsoft signature may be handled as safe). The signature validation process is handled via the WinVerifyTrust application programming interface (API) function, [2]
 https://attack.mitre.org/techniques/T1553/003/
@@ -398,12 +403,6 @@ https://malpedia.caad.fkie.fraunhofer.de/actor/unit_8200
 ---------------------------------------------------------------------
 https://attack.mitre.org/tactics/enterprise/
 -------------------------------------------------------------
-Looking for a free security toolset to test your SIP infrastructure?
-How to install: sudo apt install sipvicious
-https://www.kali.org/tools/sipvicious/
-https://www.enablesecurity.com/sipvicious/
-https://github.com/EnableSecurity/sipvicious/tree/master
-------------------------------------------------
 VEILEDSIGNAL malware  - UNC4736
 remote code execution vulnerability in Chrome, CVE-2022-0609
 Cascading software supply chain compromises
