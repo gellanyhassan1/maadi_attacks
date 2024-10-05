@@ -205,16 +205,22 @@ Malware Family : Mirai - BumbleBee_Round Two
 Exploited CVEs: 2002-0013
 Antivirus Ms Defender: Backdoor:Linux/Mirai.YA!MTB
 Antivirus Ms Defender: DDoS:Linux/Gafgyt.YA!MTB
+Malware: flbpfuh.exe
 151.101.0.0/16 ASN: AS54113 (fastly) [USA]
 119.23.0.0/16 ASN: AS37963 (Hangzhou Alibaba Advertising Co.,Ltd.)  [China]
 47.254.0.0/16 ASN: AS45102  (Alibaba US Technology Co., Ltd.)[USA] 
 mazen158.biz 41.32.0.0/16 ASN:AS8452 ( TE Data )[Egypt] 
+47.254.37.11 (47.254.0.0/16) AS 45102 ( Alibaba US Technology Co., Ltd. ) 
+51.75.78.103 (51.75.0.0/16) AS 16276 ( OVH SAS )
 JA3 Digests: a0e9f5d64349fb13191bc781f81f42e1
+JA3 Digests: bd0bf25947d4a37404f0424edf4db9ad
 https://www.virustotal.com/gui/ip-address/151.101.0.0/relations
 https://www.virustotal.com/gui/ip-address/119.23.0.0/relations
+https://www.virustotal.com/gui/ip-address/47.254.37.11/relations
 https://www.virustotal.com/gui/file/2f9eede4555bbcc943340dec4269a339fe0888253f8702855c58152ba950abdb/behavior
 https://www.virustotal.com/gui/file/1d241ad990b650d9ead70ba399dfaf4a1aa0880c2d830a2a4db0c79c780e09e3/behavior
 https://www.virustotal.com/gui/file/04b67519d40f9e55b2577af784c9f19a677071b3595ba859ca81721b66040d94/behavior
+https://www.virustotal.com/gui/file/05e538a578569dcefe530ce7693f6a891c53f16ad235bf66f8986dc1829a7490/behavior
 https://otx.alienvault.com/indicator/file/a0e9f5d64349fb13191bc781f81f42e1
 https://www.shodan.io/host/41.32.140.15
 https://www.virustotal.com/gui/domain/mazen158.biz/relations
