@@ -338,14 +338,14 @@ Ori Hamama "inje3t0r3"
 Omer Ventura "inje3t0r3"
 Ahmed El-Sayid El-Mandouh, popularly known as Ahmed “Spider.”
 “Anonymous_SpyCamera_Pegasus”
-Monalisa Octocat “Anonymous"
-Nona Said "“Anonymous"
+Monalisa Octocat “metasploit_modules_developer/contributing_Rail_on_Ruby"
+Nona Said "Facebook_Employee/Anonymous"
 ehab shakery armani
 Helmy Ashref Helmy Mohamed Farag “Anonymous_Showmang_SpyCamera_Pegasus”
 Ahmed Ashref Helmy Mohamed Farag “Anonymous_Showmang_SpyCamera_Pegasus”
 Mohamoud Samir “Anonymous_Showmang_SpyCamera_Pegasus”
 Amr Abdel Shakour Ahmed Mohamed "Data_exfiltration/Data_ID Spoofer"
-Faten Abdel Shakour Ahmed Mohamed "unfaithful wife" "Data_exfiltration/Data_ID Spoofer"
+Faten Abdel Shakour Ahmed Mohamed "unfaithful wife""Data_exfiltration/Data_ID Spoofer" hidden Sexual Relationship  with Ahmed Hamey "English Teacher"
 Alaa Mohamed Ahmed Mohamed "Data_exfiltration/Data_ID Spoofer"
 ِAieman Mohamed ElSayed
 Omnia Ragab "Data_exfiltration/Data_ID Spoofer"
