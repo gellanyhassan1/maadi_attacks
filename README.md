@@ -95,12 +95,16 @@ https://www.phonak-communications.com/en/product/phonito-nano/
 https://www.sciencedirect.com/science/article/abs/pii/S000578947580075X
 https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600330387-6.pdf
 
-I am [Elgilany Hassan Sayed] involuntarily connected to control projects such as the Nimbus project, artificial intelligence, Cyberwarfare and the learning of quantum machines in Tel Aviv, and international technology companies linked to corruption operations of local and international intelligence because of the policies of Israel and countries against the freedom and rights of Palestine , the Palestinians and participation  owner rights of my cybersecurity research projects .
+I am [Elgilany Hassan Sayed Mohamed] involuntarily connected to control projects such as the Nimbus project, artificial intelligence, Cyberwarfare and the learning of quantum machines in Tel Aviv, and international technology companies linked to corruption operations of local and international intelligence because of the policies of Israel and countries against the freedom and rights of Palestine , the Palestinians and participation  owner rights of my cybersecurity research projects .
+Unfortunately, I [Elgilany Hassan Sayed Mohamed] (Ransomware Readiness Auditing Expert Reviewer) will move in an international direction for human rights after encountering affliction and torment and being exposed to a major fraud operation by those manipulating human freedoms in beloved Egypt by expelling them from my residence illegally. They steal citizens’ property and expel them from... My house (36 Hamed Nafea St., off Ahmed Zaki St. - Al-Basateen).
+Am victim of the extraction of stem cells from my body and the conduct of practical and cyber research from high-risk groups in the encounter with torture on individuals who have unique mental abilities for foreign and terrorist interests.
+The family of Ashraf Helmy Mohamed Faraj and Omar Abdel Shakur Ahmed Mohamed witnessed me leaving the house and stealing my property and belongings from the house and apartment, then liquidating and killing me after I left the house and the house, me and my children, to erase all evidence of the implantation of spy devices. 
+And spying on me and on others with thermal cavitation devices, cameras with different sensitivities and technologies, eavesdropping devices, and exposing my private parts to the public with permits from investigation officers without prosecutor’s permission or prosecutor’s orders. 
+The puzzling question: Why should I and my children be liquidated, and why should the My The unfaithful wife
 https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1&limit=10&q=resteex0&indicatorsSearch=resteex0,resteeex0
 
 https://leorugens.wordpress.com/wp-content/uploads/2024/09/yossi-sariel-the-human-machine-team-how-to-create-synergy-between-human-artificial-intelligence-that-will-revolutionize-our-world-ebookpro-publishing-2021.pdf
 https://mx.linkedin.com/in/arielkoren?trk=people-guest_people_search-card
-
 -----------------------------------------
 Honeypots for Windows
 https://link.springer.com/content/pdf/10.1007/978-1-4302-0007-9.pdf
@@ -263,6 +267,9 @@ https://attack.mitre.org/techniques/T1071/004/
 https://jpassing.com/2021/01/05/hijacking-other-users-tcp-tunnels/
 -----------------------------------------------------------------
 #intrusion_detection_system_tools
+https://hexed.it/
+https://www.kfsensor.net/kfsensor/download/WinPcap_4_1_3.exe
+https://www.kfsensor.net/kfsensor/download/kfsens40.ms
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version
 https://www.kfsensor.net/kfsensor/download/WinPcap_4_1_3.exe
 https://www.kfsensor.net/kfsensor/download/kfsens40.msi
@@ -273,6 +280,7 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 https://npcap.com/dist/npcap-1.80.exe
 The VoIP PBX Honeypot Advance Persistent Threat Analysis
 https://www.scitepress.org/PublishedPapers/2021/104435/104435.pdf
+ransomware + showmang server static ip + hexadecimal editor 
 -----------------------------------------------------------------
 The final solution to the entire case (solution system)
 1- The names mentioned in the Cairo Etiquette and Anti-Spoofing Investigations must be visited with the candidates. The counterfeit cards, until the links are closed, are linked inversely with variables linked to mobile and fixed phone numbers and national ID numbers in separate categories for each variety, until the lines are blocked because there are no new cards for each series.
@@ -302,20 +310,11 @@ D - Collecting the full names and mobile phone numbers after the three strings, 
 #maadi_acoustic_cybercrime_attacks
 #acoustic_digital_forensics_ultrasonic_firewall
 
-ransomware + showmang server static ip + hexadecimal editor 
-https://hexed.it/
-
-تحيه طيبه لرجال مصر الاوفياء الي والنيابه العسكريه المصريه في حق يقين القوات المسلحه المصريه والمخابرات العامه المصريه وبدون سلام لمن يلوث تراب بلده الغاليه
-
-اهم وظائف عملاء الشباك في جمهوريه مصر العربيه : مهندسي تحكم وتحويل اشارات الرايو وتحديث بيانات بث اذاعات الراديو والمسؤولون عن مراقبة نقل البيانات والاشارات وتحديثها (البث أو الموجهة) للرديو اذا كان غير متطابق مع القائمه البيضاء الرسميه الموثوقه علي كل وزاره علي حده 
-ومهمه الشباك في الامن الوطني التحقيقات و تامين عمليات لتحكم الراديو في وزاره الداخليه لجمهوريه مصر العربيه وبث الاذاعات الراديو والتنصت عن بعد من المصابين بزرع اجهزه تجسس بدون الجلوس معهم وتعريفهم باصابتهم باجهزه مزروعه في الاذن للتجسس وللتنصت وتلقي الرشاوي عن تحويلات بنكيه او عملات مشفره و يتم استغلال تجاره الاعضاء البشريه معا تجاره المخدرات ومنافذ استلام الموتي كمالشارح الطبيه لوزاره الصحه مثل مشرحه زينهم و خطف بشر و السيطره علي النيابات العامه والعسكريه باستغلال بعض افراد وامنيين فاسدين من امن الشرطه المصريه والتحريات المباحث والاستيفا بالرشاوي والابتزازات وعمل تقارير وهميه علي حسب الطلب بتلفيق قضايا لاشخاص مستهدفه لهم علاقات سياسيه سلبيه مع الخليه و يتم تنظيف القضايا الفاسده المبنيه علي معلومات استخبراتيه مغلوطه مشكوك في صحتها بعلميات منتصفه ملتمسه معا جميع القضايا اليراد قفلها بخلق قضيه جديد بعد فتره زمنيه معينه لقفل القضايا الصغيره ثم قفل القضيه المختلقه حديثه بسقوطها من تلقاء نفساء وهذه عمليات التنظيف كل فتره زمنيه لامنيين و افراد فاسديين من مباحث وامنيين للافلات من العقاب القانوني وتسمي هذه العمليات تحت مسمي (لم وجمع وحرق) وتنظيم نواه الامن العام الموازي المزيف لوزاره الداخليه المصري واختراق نظام اتصالات الراديو لوزاره الدفاع وزاره الداخليه المصري بنسخ التردادت من اجهزه الراديو و التصنت عليهم لتفادي الظهور والخفاء طوال الوقت وخطف وقتل والتخلص من منافسين وشهود وخونه من ضمن الخليه في شارع حامد مافع المتفرع من شارع احمد ذكي - البساتين ونواحيها في فنره زمنيه معينه 2023 - للأسف انا / الجيلاني حسن سيد محمد (خبير مراجع في برنامج التدقيق ضد برامج الفديه ) هتجه اتجاه دولي لحقوق الانسان بعد اللقاء البلاء والعذاب و التعرض لعمليه نصب كبري من متلاعبين بحريات الإنسان في مصر الحبيبة بالطرد من سكني بشكل غير قانوني يقومون بسرقه ممتلكات المواطنين وطردهم من منزلي (36 ش حامد نافع متفرع من ش احمد ذكي - البساتين)  .
-
 شاهد اثبات لحظه مكالمه بين شخص يدعو اسامه مع حلمي اشرف حلمي محمد فرج وعند الانتهاء من المكالمه وانا في الطابق الاسفل من حلمي اشرف حلمي محمد فرج بعدها بدقائق اعاده المكالمه بجوده عاليه جدا ولكن بطرف صوتي وحيد ( حلمي اشرف حلمي محمد فرج) بتسمع المكالمه من اجهزه موبيل ساميه حلمي محمد فرج وسمير في الشقه المقابله بدون التنصت عليهم , 
 شاهد الاثبات : لحظه تواجدي يوم 23/3/2024 امام بعض كاميرات مراقبه داخليه لمسجد حسن صدقي - المعادي ( ملحوظه بعض المساجد بهم شبه الانتماء الي تمويلات مشبوها محمله بشبه داعش كتموتيلات خارجه عن ايرادات وزاره الاوقاف وغسيلها في سبل غير مشروعه وتوزع بعضها في تجاره الممنوعات والتهرب الضريبي والتكتم من مباحث الاموالا العامه علي هذه الااموال بدون رجوعها كاملا لوزاره الاوقاف )  ظهور فجاءه اصوات بشريه بصوت واضح بالشرائح المزروعه في اذاني الداخليه الماخوذ منها خلايا جذعيه مستفاده لاشخاص خاصين ببنوك الخلايا الجذعيه بالتعرف عليا امام كاميرات المراقبه  التي بعضها  حراريه وباخصه في حمامات المساجد والاماكن العامه كالمحلات والكافيهات بالتفاعل مع مراقبيين الكاميرات ولذلك يجب فحص الشبكه والشبكات والاتصالات المرتبطه بالكاميرات بالتفاعل مع المراقبيين بدون التكلم معهم باي صوت خارجي ولكن عن طريق كلام النفس بالشريحه المزورعه في معدتي وتتبع سجلات الاتصالات بالكاميرات  
 
-شاهد اثبات علي اخذ مني خلايا جذعيه امام كاميرات حسين صدقي في الساحه الداخليه والخارجيه باثبات قلم تنظبف الاذن الطبي بزاويه مستقيمه 90 درجه من اسفل الي اعلي الاذن الداخلي باداخلها واخرجها من اعلي الي اسفل
-وشاهد علي امني مع لقائه مع اشرف حلمي محمد فرج وحلمي اشرف حلمي محمد فرج بخروجي من البيت ودفع تعويض ايجار قديم ثلاثه مليون جنيه لاخراجي من المنزل والشقه ثم تصفيتي وقتلي بعد خروجي من البيت والمنزل انا واولادي لمسح كل الشواهد علي عمليات الزرع لاجهزه التجسس 
-في اجسامي انا واولادي بعد تعرضي الي اشعه halo thermal من امني صديق اشرف حلمي محمد فرج بدون تصاريح في الدور الفوقي من شقه حلمي اشرف حلمي محمد فرج 
+وشاهد علي عائله اشرف حلمي محمد فرج  وعمر عبد الشكور احمد محمد بخروجي من البيت وسرقه ممتلكاتي واغراضي  من المنزل والشقه ثم تصفيتي وقتلي بعد خروجي من البيت والمنزل انا واولادي لمسح كل الشواهد علي عمليات الزرع لاجهزه التجسس 
+والتجسس عليا وعلي الغير باجهزه التجويف الحراري وكاميراتذو حساسيات وتقنيات مختلفه واجهزه تنصت وكشف عوراتي للعامه بتصاريح من ظباط  مباحث بدون اذون نيابهاو اوامر نيابه 
 السؤال المحير : لماذا انا واولادي يجب تصفيتنا ولماذا الام مجنبه؟
 ---------------------------------------------------------------------
 حق يقين : ا - لا كلام مع الجن والانسان هذه لسان و هذه لسان 
@@ -346,7 +345,7 @@ Helmy Ashref Helmy Mohamed Farag “Anonymous_Showmang_SpyCamera_Pegasus”
 Ahmed Ashref Helmy Mohamed Farag “Anonymous_Showmang_SpyCamera_Pegasus”
 Mohamoud Samir “Anonymous_Showmang_SpyCamera_Pegasus”
 Amr Abdel Shakour Ahmed Mohamed "Data_exfiltration/Data_ID Spoofer"
-Faten Abdel Shakour Ahmed Mohamed "Data_exfiltration/Data_ID Spoofer"
+Faten Abdel Shakour Ahmed Mohamed "unfaithful wife" "Data_exfiltration/Data_ID Spoofer"
 Alaa Mohamed Ahmed Mohamed "Data_exfiltration/Data_ID Spoofer"
 ِAieman Mohamed ElSayed
 Omnia Ragab "Data_exfiltration/Data_ID Spoofer"
