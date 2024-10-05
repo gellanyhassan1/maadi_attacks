@@ -361,7 +361,7 @@ Faten Abdel Shakour Ahmed Mohamed "unfaithful wife""Data_exfiltration/Data_ID Sp
 Alaa Mohamed Ahmed Mohamed "Data_exfiltration/Data_ID Spoofer"
 ِAieman Mohamed ElSayed
 Omnia Ragab "Data_exfiltration/Data_ID Spoofer"
-Ahmed Ragab "Data_exfiltration/Data_ID Spoofer" 
+Ahmed Ragab "BP_employee/Data_exfiltration" 
 https://www.youtube.com/watch?v=37oBowW7vyQ
 https://english.ahram.org.eg/NewsContent/1/64/31488/Egypt/Politics-/Revolutionary-activists-take-fight-into-cyberspace.aspx
 https://malpedia.caad.fkie.fraunhofer.de/actor/unit_8200
