@@ -76,7 +76,7 @@ https://doi.org/10.1016/j.diin.2018.04.007
 https://opencellid.org/#zoom=18&lat=32.085299&lon=34.781806 
 https://www.youtube.com/watch?v=3HlBB5JzI0Y
 
-Such as the leaking of General Petroleum Corporation companies documents with more than 130,000 documents, geophysical , petrophysical and Well test records reports for areas of exploration, espionage, bank theft, and some military and security information as first political , Industrial and Cyber adversary competitions between Sahara oil field services company and #BP_Egypt Company Among us, people and police investigator officers in Egypt, and organ and drug dealers involved in expelling people from their homes and having sexual relations outside of marriage to control people, leak documents, spy on oil and gas companies, fraud, and create illusionary operations.
+Such as the leaking of General Petroleum Corporation companies documents with more than 130,000 documents, geophysical , petrophysical and Well test records reports for areas of exploration, espionage, bank theft, and some military and security information as first political , Industrial and Cyber adversary competitions between Sahara oil field services company #SAPESCO , #BP_Egypt , TV/Military Manfuraction information's Company And Automative Hacking Among us, people and police investigator officers in Egypt, and organ and drug dealers involved in expelling people from their homes and having sexual relations outside of marriage to control people, leak documents, spy on oil and gas companies, fraud, and create illusionary operations.
 https://www.6wresearch.com/industry-report/egypt-signals-intelligence-sigint-market-outlook
 https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/year-in-review-notable-data-breaches-for-2017
 
@@ -95,19 +95,21 @@ https://www.phonak-communications.com/en/product/phonito-nano/
 https://www.sciencedirect.com/science/article/abs/pii/S000578947580075X
 https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600330387-6.pdf
 
+#Maadi_SpyCameras_RTSP_Exposed_security_significant_risks
 I am [Elgilany Hassan Sayed Mohamed] involuntarily connected to control projects such as the Nimbus project, artificial intelligence, Cyberwarfare and the learning of quantum machines in Tel Aviv, and international technology companies linked to corruption operations of local and international intelligence because of the policies of Israel and countries against the freedom and rights of Palestine , the Palestinians and participation  owner rights of my cybersecurity research projects .
-Unfortunately, I [Elgilany Hassan Sayed Mohamed] (Ransomware Readiness Auditing Expert Reviewer) will move in an international direction for human rights after encountering affliction and torment and being exposed to a major fraud operation by those manipulating human freedoms in beloved Egypt by expelling them from my residence illegally. They steal citizens’ property and expel them from... My house (36 Hamed Nafea St., off Ahmed Zaki St. - Al-Basateen).
+Unfortunately, I Am [Elgilany Hassan Sayed Mohamed] (Ransomware Readiness Auditing Expert Reviewer) will move in an international direction for human rights after encountering affliction and torment and being exposed to a major fraud operation by those manipulating human freedoms in beloved Egypt by expelling them from my residence illegally. They steal citizens’ property and expel them from... My house (36 Hamed Nafea St., off Ahmed Zaki St. - Al-Basateen).
 Am victim of the extraction of stem cells from my body and the conduct of practical and cyber research from high-risk groups in the encounter with torture on individuals who have unique mental abilities for foreign and terrorist interests.
 The family of Ashraf Helmy Mohamed Faraj and Omar Abdel Shakur Ahmed Mohamed witnessed me leaving the house and stealing my property and belongings from the house and apartment, then liquidating and killing me after I left the house and the house, me and my children, to erase all evidence of the implantation of spy devices. 
 And spying on me and on others with thermal cavitation devices, cameras with different sensitivities and technologies, eavesdropping devices, and exposing my private parts to the public with permits from investigation officers without prosecutor’s permission or prosecutor’s orders. 
-The puzzling question: Why should I and my children be liquidated, and why should the My The unfaithful wife
-https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1&limit=10&q=resteex0&indicatorsSearch=resteex0,resteeex0
-
+The puzzling question: Why should I and my children be liquidated, and why should the My The unfaithful wife.
+Many poorly configured security cameras are being hacked by hackers in Egypt and Palestine, putting the owners who use them and the people around them at great risk.
+https://book.hacktricks.xyz/network-services-pentesting/554-8554-pentesting-rtsp
+https://nmap.org/nsedoc/scripts/rtsp-url-brute.html
+https://gitlab.com/woolf/RTSPbrute
+https://securityaffairs.com/152265/hacking/security-cameras-israel-and-palestine.html?fbclid=IwY2xjawFC2W9leHRuA2FlbQIxMAABHYxa7x90oMkddZ7vEkpiN-TzqmyMkVQym8Pe2FaQusbZpUca0KMGOYEm-A_aem_gHnkwPy4GLhDxEAmOim_kg
+https://cybernews.com/security/exposed-security-cameras-pose-risk-in-israel-palestine/
 https://leorugens.wordpress.com/wp-content/uploads/2024/09/yossi-sariel-the-human-machine-team-how-to-create-synergy-between-human-artificial-intelligence-that-will-revolutionize-our-world-ebookpro-publishing-2021.pdf
 https://mx.linkedin.com/in/arielkoren?trk=people-guest_people_search-card
------------------------------------------
-Honeypots for Windows
-https://link.springer.com/content/pdf/10.1007/978-1-4302-0007-9.pdf
 -------------------------------------------------------------------------
 https://isbgpsafeyet.com/
 https://github.com/RBReif/bgp-hijack-detection
@@ -280,6 +282,9 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 https://npcap.com/dist/npcap-1.80.exe
 The VoIP PBX Honeypot Advance Persistent Threat Analysis
 https://www.scitepress.org/PublishedPapers/2021/104435/104435.pdf
+https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1&limit=10&q=resteex0&indicatorsSearch=resteex0,resteeex0
+Honeypots for Windows
+https://link.springer.com/content/pdf/10.1007/978-1-4302-0007-9.pdf
 ransomware + showmang server static ip + hexadecimal editor 
 -----------------------------------------------------------------
 The final solution to the entire case (solution system)
@@ -297,10 +302,10 @@ D - Collecting the full names and mobile phone numbers after the three strings, 
 يجب تحليل بيانات سجل الهواتف في شركات المحمول في اعدادات تحويل الاتصالات (call forward setting ) متشابه مع ارقام الموظفين في السفارات والقنصليات والخ
 3- Repeat the previous steps together with the numbers of the suspected cars, starting from the first owner to the last owner, with their agencies.
  اعاده الخطوات السابقه معا ارقام السيارات المشتبه فيهم ابتداءا من المالك الاول حتي المالك الاخير بتوكيلاتهم
-4- Review and accurately review banking units, internal desktop transfers, and encrypted thermal printing for more than one million pounds in an average month or year. 
-- Take out the bank and internal accounts in the living room
-مراجعه ودقيق وحدات البنكيه والتحويلات الداخلية لسطح المكتب والطباعة الحرارية المشفره لاكثر من مليون جنيه في الشهر المتوسط ​​او السنه 
-- قم بإخراج حسابات البنوك والداخلية في غرفة المعيشة
+4- Review and accurately review banking units and accounts, internal and external transfers, and encrypted Transfer printing for more than one million Egyptian pounds in an average month or year Income abroad.
+- Take out the bank and internal accounts of the living cost and Fees
+مراجعة ومراجعة الوحدات والحسابات المصرفية بدقة والتحويلات الداخلية والخارجية وطباعة التحويلات المشفرة لأكثر من مليون جنيه مصري في متوسط ​​الدخل الشهري أو السنوي بالخارج.
+- إخراج الحسابات البنكية والداخلية لتكاليف المعيشة والرسوم
 -----------------------------------------------------------------
 #maadi_sip_trunking_man_in_the_middle_attacks
 #maadi_sip_guid_enumeration_attacks
@@ -311,14 +316,9 @@ D - Collecting the full names and mobile phone numbers after the three strings, 
 #acoustic_digital_forensics_ultrasonic_firewall
 
 شاهد اثبات لحظه مكالمه بين شخص يدعو اسامه مع حلمي اشرف حلمي محمد فرج وعند الانتهاء من المكالمه وانا في الطابق الاسفل من حلمي اشرف حلمي محمد فرج بعدها بدقائق اعاده المكالمه بجوده عاليه جدا ولكن بطرف صوتي وحيد ( حلمي اشرف حلمي محمد فرج) بتسمع المكالمه من اجهزه موبيل ساميه حلمي محمد فرج وسمير في الشقه المقابله بدون التنصت عليهم , 
-شاهد الاثبات : لحظه تواجدي يوم 23/3/2024 امام بعض كاميرات مراقبه داخليه لمسجد حسن صدقي - المعادي ( ملحوظه بعض المساجد بهم شبه الانتماء الي تمويلات مشبوها محمله بشبه داعش كتموتيلات خارجه عن ايرادات وزاره الاوقاف وغسيلها في سبل غير مشروعه وتوزع بعضها في تجاره الممنوعات والتهرب الضريبي والتكتم من مباحث الاموالا العامه علي هذه الااموال بدون رجوعها كاملا لوزاره الاوقاف )  ظهور فجاءه اصوات بشريه بصوت واضح بالشرائح المزروعه في اذاني الداخليه الماخوذ منها خلايا جذعيه مستفاده لاشخاص خاصين ببنوك الخلايا الجذعيه بالتعرف عليا امام كاميرات المراقبه  التي بعضها  حراريه وباخصه في حمامات المساجد والاماكن العامه كالمحلات والكافيهات بالتفاعل مع مراقبيين الكاميرات ولذلك يجب فحص الشبكه والشبكات والاتصالات المرتبطه بالكاميرات بالتفاعل مع المراقبيين بدون التكلم معهم باي صوت خارجي ولكن عن طريق كلام النفس بالشريحه المزورعه في معدتي وتتبع سجلات الاتصالات بالكاميرات  
-
-وشاهد علي عائله اشرف حلمي محمد فرج  وعمر عبد الشكور احمد محمد بخروجي من البيت وسرقه ممتلكاتي واغراضي  من المنزل والشقه ثم تصفيتي وقتلي بعد خروجي من البيت والمنزل انا واولادي لمسح كل الشواهد علي عمليات الزرع لاجهزه التجسس 
-والتجسس عليا وعلي الغير باجهزه التجويف الحراري وكاميراتذو حساسيات وتقنيات مختلفه واجهزه تنصت وكشف عوراتي للعامه بتصاريح من ظباط  مباحث بدون اذون نيابهاو اوامر نيابه 
-السؤال المحير : لماذا انا واولادي يجب تصفيتنا ولماذا الام مجنبه؟
+شاهد الاثبات : لحظه تواجدي يوم 23/3/2024 امام بعض كاميرات مراقبه داخليه لمسجد حسن صدقي - المعادي 
 ---------------------------------------------------------------------
-حق يقين : ا - لا كلام مع الجن والانسان هذه لسان و هذه لسان 
-
+"حق يقين :  "لا كلام مع الجن والانسان هذه لسان و هذه لسان 
 الاثبات : لايمكن التكلم مع الحيوانات او التخاطب معها في العالم الملموس الحقيقي من حولنا مهما بلغت التقنيات ولذلك لايمكن التحدث مع الجن في العالم الغير ملموس مع الانسان - انتهي الاثبات
 -----------------------------------------------------------------------
 شهود
@@ -483,17 +483,6 @@ https://github.com/PFGimenez/radio-ids
 https://github.com/open-sdr/openwifi
 https://github.com/xmikos/qspectrumanalyzer
 8-  اتصالات الراديو و radio trunking scanner والاتصالات المخفيه برتوكولات  PTT push to talk في وزراه الاتصالات والداخليه والسنترالات المصريه في اخفاء الاتصالات المشبوه بين افراد الخليه وتلويث الاثيري والرديو الاصلي ب تغير الاصوات والاسماء ب voice changer والعملاء ويمكن قلب analog radio signal  الي رقمي ثم Regex filter لاثبات حثق اليقين في تواجد الاتصالات PTT في بيانات وموجات في السنترالات للمشتركيين في خدمات وزاره الاتصالات وتكنولوجيا المعلومات
-
-9-Real-Time Streaming Protocol (RTSP)
-#RTSP_Exposed_security_cameras_significant_risksٌ_Maadi_Telaviv
- تتعرض العديد من الكاميرات الأمنية سيئة التهيئة للاختراق من قبل نشطاء القرصنة في مصر وفلسطين، مما يعرض أصحابها الذين يستخدمونها والأشخاص المحيطين بهم لخطر كبير.
-https://book.hacktricks.xyz/network-services-pentesting/554-8554-pentesting-rtsp
-https://nmap.org/nsedoc/scripts/rtsp-url-brute.html
-https://gitlab.com/woolf/RTSPbrute
-
-كمثال : 
-https://securityaffairs.com/152265/hacking/security-cameras-israel-and-palestine.html?fbclid=IwY2xjawFC2W9leHRuA2FlbQIxMAABHYxa7x90oMkddZ7vEkpiN-TzqmyMkVQym8Pe2FaQusbZpUca0KMGOYEm-A_aem_gHnkwPy4GLhDxEAmOim_kg
-https://cybernews.com/security/exposed-security-cameras-pose-risk-in-israel-palestine/
 
 https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1&limit=10&q=Israeli&indicatorsSearch=Israeli
 
