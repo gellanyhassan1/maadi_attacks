@@ -1,4 +1,7 @@
+stolen my phone number : 00201016029799 from vodafone attacker  to hacking my facebook,google,github,gitlab,etc 
+stolen my phone number : 00201147766447 from etisalte  attacker to hacking my facebook,google,github,gitlab,etc 
 https://github.com/gellanyhassan1/maadi_attacks
+https://www.interpol.int/en/Contacts/Report-a-suspected-fraud-and-abuse-of-INTERPOL-s-name
 I Pet Goat 2 Operation = Operation Olympic Games [ victim : Elgilany Hassan Sayed , Ariel Koren , Hasan Fakhrizadeh] 
 
 Am So Sorry to Say the FBI.gov , HHS.gov , intezer.com , checkpoint.com dirty works about APT41_202308161700 INJ3CTOR3_Operation
@@ -29,7 +32,6 @@ as per Correction of cyberscoop.com: A review by cybersecurity firm Area 1 Secur
 https://cyberscoop.com/researchers-link-macron-hack-to-apt28-with-moderate-confidence/
 https://www.iss.europa.eu/sites/default/files/EUISSFiles/CP_148.pdf
 https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/year-in-review-notable-data-breaches-for-2017
-
 Duqu + Dutch Spy + Stuxnet + Sysjoker = Operation Olympic Games
 https://malpedia.caad.fkie.fraunhofer.de/actor/unit_8200
 https://malpedia.caad.fkie.fraunhofer.de/details/win.duqu
@@ -260,6 +262,38 @@ The DNS protocol serves an administrative function in computer networking and th
 https://attack.mitre.org/techniques/T1071/004/
 https://jpassing.com/2021/01/05/hijacking-other-users-tcp-tunnels/
 -----------------------------------------------------------------
+#intrusion_detection_system_tools
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version
+https://www.kfsensor.net/kfsensor/download/WinPcap_4_1_3.exe
+https://www.kfsensor.net/kfsensor/download/kfsens40.msi
+https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview
+https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
+https://aka.ms/vs/17/release/vc_redist.x86.exe
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+https://npcap.com/dist/npcap-1.80.exe
+The VoIP PBX Honeypot Advance Persistent Threat Analysis
+https://www.scitepress.org/PublishedPapers/2021/104435/104435.pdf
+-----------------------------------------------------------------
+The final solution to the entire case (solution system)
+1- The names mentioned in the Cairo Etiquette and Anti-Spoofing Investigations must be visited with the candidates. The counterfeit cards, until the links are closed, are linked inversely with variables linked to mobile and fixed phone numbers and national ID numbers in separate categories for each variety, until the lines are blocked because there are no new cards for each series.
+يجب مراجعه الاسماء الوارد ذكرها في مباحث اداب ومكافحه المخدرات  القاهره مع مراجعه البطاقات المزيفه حتي قفل السلاسل مربوطه عكسيه بمتغيرات مربوطه بارقام الهواتف المحموله والثابته واراقم الهويات القوميه في سلاسل منفصله لكل متغير حتي يتم قفل السلاسل بعدم وجود اي بطاقات جديده في كل سلسله
+A- complete series of counterfeit cards linked to mobile phone numbers, starting with the first suspicious card and linking it with the suspect’s name on the card to the mobile phone numbers in all mobile phone companies, then linking each mobile phone number by searching for the cards linked to it in the Ministry of Interior’s system, and so on and so on...... ..until there is no other new card.
+سلسله كامله من البطاقات المزوره بربطها بارقام الهواتف المحموله ببدء بالبطاقه المشبوها الاولي وربطها باسم المشبوه في البطاقه بالارقام الهواتف المحموله في جميع شركات المحمول ثم ربط كل رقم هاتف محمول بالبحث عن البطاقات المربوطه بها في نظام وزاره الداخليه وهكذا وهكذا الخ ........ حتي يتم ان لا يوجد اي بطاقه جديده اخري
+B - A complete series of counterfeit cards linked to fixed phone numbers, starting with the first suspicious card and linking it to the suspect’s name on the card to the fixed phone numbers, then linking each fixed phone number to a search for the cards linked to it in the Ministry of Interior’s system, and so on, and so on, etc........ until There is no other new card
+ سلسله كامله من البطاقات المزوره بربطها بارقام الهواتف الثابته ببدء بالبطاقه المشبوها الاولي وربطها باسم المشبوه في البطاقه بالارقام الهواتف الثابته ثم ربط كل رقم هاتف ثابت بالبحث عن البطاقات المربوطه بها في نظام وزاره الداخليه وهكذا وهكذا الخ ........ حتي يتم ان لا يوجد اي بطاقه جديده اخري
+C - A complete series of counterfeit cards by linking them to the national number, starting with the first suspicious card and linking it to the suspect’s name on the card with the national number, then linking each to the national number by searching for the cards linked to it in the Ministry of Interior system, and so on, and so on, etc........ until it is not There is no other new card
+ج - سلسله كامله من البطاقات المزوره بربطها بالرقم القومي  ببدء بالبطاقه المشبوها الاولي وربطها باسم المشبوه في البطاقه بالرقم القومي ثم ربط كل بالرقم القومي بالبحث عن البطاقات المربوطه بها في نظام وزاره الداخليه وهكذا وهكذا الخ ........ حتي يتم ان لا يوجد اي بطاقه جديده اخري
+D - Collecting the full names and mobile phone numbers after the three strings, linking the national identity cards and the three variables.
+د - تجميع الاسماء كامله وارقام الهواتف المحموله بعد الثلاث سلاسل الربط بين البطاقات الهويات القوميه والمتغيرات الثلاثه
+2- Phone log data in mobile companies must be analyzed in call forward settings, similar to the numbers of employees in embassies, consulates, etc.
+يجب تحليل بيانات سجل الهواتف في شركات المحمول في اعدادات تحويل الاتصالات (call forward setting ) متشابه مع ارقام الموظفين في السفارات والقنصليات والخ
+3- Repeat the previous steps together with the numbers of the suspected cars, starting from the first owner to the last owner, with their agencies.
+ اعاده الخطوات السابقه معا ارقام السيارات المشتبه فيهم ابتداءا من المالك الاول حتي المالك الاخير بتوكيلاتهم
+4- Review and accurately review banking units, internal desktop transfers, and encrypted thermal printing for more than one million pounds in an average month or year. 
+- Take out the bank and internal accounts in the living room
+مراجعه ودقيق وحدات البنكيه والتحويلات الداخلية لسطح المكتب والطباعة الحرارية المشفره لاكثر من مليون جنيه في الشهر المتوسط ​​او السنه 
+- قم بإخراج حسابات البنوك والداخلية في غرفة المعيشة
+-----------------------------------------------------------------
 #maadi_sip_trunking_man_in_the_middle_attacks
 #maadi_sip_guid_enumeration_attacks
 #maadi_call_tampering_attacks
@@ -305,13 +339,18 @@ Ori Hamama "inje3t0r3"
 Omer Ventura "inje3t0r3"
 Ahmed El-Sayid El-Mandouh, popularly known as Ahmed “Spider.”
 “Anonymous_SpyCamera_Pegasus”
-Helmy Ashref Helmy Mohamed Farag “Anonymous_Showmang_SpyCamera_Pegasus”
-Ahmed Ashref Helmy Mohamed Farag “Anonymous_Showmang_SpyCamera_Pegasus”
-Mohamoud Samir “Anonymous_Showmang_SpyCamera_Pegasus”
 Monalisa Octocat “Anonymous"
 Nona Said "“Anonymous"
 ehab shakery armani
-
+Helmy Ashref Helmy Mohamed Farag “Anonymous_Showmang_SpyCamera_Pegasus”
+Ahmed Ashref Helmy Mohamed Farag “Anonymous_Showmang_SpyCamera_Pegasus”
+Mohamoud Samir “Anonymous_Showmang_SpyCamera_Pegasus”
+Amr Abdel Shakour Ahmed Mohamed "Data_exfiltration/Data_ID Spoofer"
+Faten Abdel Shakour Ahmed Mohamed "Data_exfiltration/Data_ID Spoofer"
+Alaa Mohamed Ahmed Mohamed "Data_exfiltration/Data_ID Spoofer"
+ِAieman Mohamed ElSayed
+Omnia Ragab "Data_exfiltration/Data_ID Spoofer"
+Ahmed Ragab "Data_exfiltration/Data_ID Spoofer" 
 https://www.youtube.com/watch?v=37oBowW7vyQ
 https://english.ahram.org.eg/NewsContent/1/64/31488/Egypt/Politics-/Revolutionary-activists-take-fight-into-cyberspace.aspx
 https://malpedia.caad.fkie.fraunhofer.de/actor/unit_8200
@@ -326,7 +365,6 @@ https://malpedia.caad.fkie.fraunhofer.de/actor/unit_8200
 موظف في شركه بترول : احمد رجب
 اللواء سامح نبيل مدير إدارة المعلومات بقطاع الأمن 
 العقيد أحمد عبد العزيز، رئيسًا لمباحث التلفزيون 
-عمر عبد الشكور احمد محمد (نصاب ورث)
 مدير مباحث العاصمه السابق اللواء / عمرو إبراهيم
 لواء مهندس /أحمد عدلى أحمد محمد – مساعد وزير الدلخليه لقطاع نظم الإتصالات وتكنولوجيا المعلومات
 مدير مباحث البساتين السابق / أحمد طارق العسكري
@@ -335,13 +373,11 @@ https://malpedia.caad.fkie.fraunhofer.de/actor/unit_8200
 نائب مامور قسم البساتين / محمد مصطفي 
 ضابط مباحث قسم شرطة البساتين / كمال محمد كمال سليم
 معاون مباحث قسم البساتين / وليد محمود محمد سليم
-فاتن عبد الشكور احمد محمد (نصابه ورث)
 امنيه رجب صديقه فاتن عبد الشكور احمد محمد واخوها احمد رجب 
 عبد الشكور احمد محمد
 ساميه حلمي محمد فرج
 محمود سمير حسنيين واحمد سمير حسنيين ابناء ساميه حلمي محمد فرج
 حلمي اشرف حلمي محمد فرج
-وفاء زوجه حلمي اشرف حلمي محمد فرج
 احمد اشرف حلمي محمد فرج
 محامي / علاء محمد احمد محمد
 زوجه واقارب محامي / علاء محمد احمد محمد
@@ -359,29 +395,11 @@ https://malpedia.caad.fkie.fraunhofer.de/actor/unit_8200
 رامي سعيد العسال
 احمد حمدي (مدرس لغه انجليزي)
 ايمان محمد السيد  
-اسامه ذايد 
-بعض العاملين بمطاعم ماكدنولذ وبيتزا هت وفودافون (شارع 9 المعادي)  وارتباطهم بمواسح راديو مرتبطه بمراكز رئيسيه
+بعض العاملين بمطاعم ماكدنولذ وبيتزا هت (شارع 9 المعادي)  
 ---------------------------------------------------------------------
-اسماء المتورطين والمشتبه فيهم للدرجه الثانيه والثالثه
-ملاكي القاهره 150515
-728 ج ص ع 
-ب و ى 378
-ط ق 4326
-ر و و 963
-س ف ق 657
-ي ا م 1345   ==================> 12/6/2023 
-ي ق ع 1425
-ه ي س 9374 =================> 11/6/2023
-م س د 819
-ل م ر 421
-ا ي ن 9236
-ا ج ه 2546
-و س ب 576
---------------------------------------------
 https://attack.mitre.org/tactics/enterprise/
 -------------------------------------------------------------
 Looking for a free security toolset to test your SIP infrastructure?
-
 How to install: sudo apt install sipvicious
 https://www.kali.org/tools/sipvicious/
 https://www.enablesecurity.com/sipvicious/
@@ -440,14 +458,6 @@ https://www.welivesecurity.com/2023/06/07/hear-no-evil-ultrasound-attacks-voice-
 -----------------------------------------------------------------------
 الحل النهائي للقضيه كاملا (نظام الحل)
 
-1- (يجب مراجعه الاسماء الوارد ذكرها في مباحث اداب ومكافحه المخدرات  القاهره مع مراجعه البطاقات المزيفه حتي قفل السلاسل مربوطه عكسيه بمتغيرات مربوطه بارقام الهواتف المحموله والثابته واراقم الهويات القوميه في سلاسل منفصله لكل متغير حتي يتم قفل السلاسل بعدم وجود اي بطاقات جديده في كل سلسله )
-ا- سلسله كامله من البطاقات المزوره بربطها بارقام الهواتف المحموله ببدء بالبطاقه المشبوها الاولي وربطها باسم المشبوه في البطاقه بالارقام الهواتف المحموله في جميع شركات المحمول ثم ربط كل رقم هاتف محمول بالبحث عن البطاقات المربوطه بها في نظام وزاره الداخليه وهكذا وهكذا الخ ........ حتي يتم ان لا يوجد اي بطاقه جديده اخري
-ب - سلسله كامله من البطاقات المزوره بربطها بارقام الهواتف الثابته ببدء بالبطاقه المشبوها الاولي وربطها باسم المشبوه في البطاقه بالارقام الهواتف الثابته ثم ربط كل رقم هاتف ثابت بالبحث عن البطاقات المربوطه بها في نظام وزاره الداخليه وهكذا وهكذا الخ ........ حتي يتم ان لا يوجد اي بطاقه جديده اخري
-ج - سلسله كامله من البطاقات المزوره بربطها بالرقم القومي  ببدء بالبطاقه المشبوها الاولي وربطها باسم المشبوه في البطاقه بالرقم القومي ثم ربط كل بالرقم القومي بالبحث عن البطاقات المربوطه بها في نظام وزاره الداخليه وهكذا وهكذا الخ ........ حتي يتم ان لا يوجد اي بطاقه جديده اخري
-د - تجميع الاسماء كامله وارقام الهواتف المحموله بعد الثلاث سلاسل الربط بين البطاقات الهويات القوميه والمتغيرات الثلاثه 
-
-2- يجب تحليل بيانات سجل الهواتف في شركات المحمول في اعدادات تحويل الاتصالات (call forward setting ) متشابه مع ارقام الموظفين في السفارات والقنصليات الاسرائيليه والامريكيه وفرسان مالطا والفتيكان والروسيه والاخري
-3- اعاده الخطوات السابقه معا ارقام السيارات المشتبه فيهم ابتداءا من المالك الاول حتي المالك الاخير بتوكيلاتهم
 4- (  اختراق الحواسيب والهواتف والحياه الرقمية وارسال تقارير التجسس الي عناصر استخارتيه متخفيه تحت الأجهزة الأمنية المصرية المختلفة بعد عمل أوامر تتبع للضحايا و سرقه ملفات من المواطنين والمؤساسات والتجسس علي الكاميرات وحواسيب الاشخاص والعمل عن طريق RDP ) تم سرقه ملفات من محل سكني و سرقه جميع محتوياتها بطردي من سكني لسرقه ملفات مهمه  منها  ( تقرير عن الامن السيبراني لجامعه سيناء لهجمات سيبرانيه )
 
 ا- فحص بروتوكول سطح المكتب البعيد RDP ونجاح الاتصال Windows RDP Event Logs ID في اتصالات مشبوها وغير قانونيه وغير مصرح بها
@@ -511,9 +521,6 @@ https://github.com/cbuijs/ipasn/blob/master/country-asia-israel4.list
 https://github.com/cbuijs/ipasn/blob/master/country-asia-israel6.list
 https://github.com/hightemp/col_ip_ranges_by_countries/blob/main/data/israel-ip-address-ranges.json
 --------------------------------------------
-14-  The VoIP PBX Honeypot Advance Persistent Threat Analysis
-https://www.scitepress.org/PublishedPapers/2021/104435/104435.pdf
-
 indicator of compromise IOCs
 ASN
 AS13335 CLOUDFLARENET, US
@@ -570,20 +577,12 @@ https://www.exploit-db.com/exploits/15937
 https://www.exploit-db.com/exploits/16838
 -------------------------------------------------
 17-
-#intrusion_detection_system_tools
-https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version
-https://www.kfsensor.net/kfsensor/free-trial/
 
-https://aka.ms/vs/17/release/vc_redist.x86.exe
-https://aka.ms/vs/17/release/vc_redist.x64.exe
-https://npcap.com/dist/npcap-1.80.exe
 cd C:\Snort\bin
 snort -?
 snort -V
 snort -W
 snort -i 4 -A console
-https://www.kfsensor.net/kfsensor/download/WinPcap_4_1_3.exe
-https://www.kfsensor.net/kfsensor/download/kfsens40.msi
 
 #socat_windows
 netstat -atyno
@@ -679,10 +678,6 @@ israel camera
     14        inurl:CgiStart?page=Single
     15        intitle:EvoCam inurl:webcam.html
     16        inurl:indexFrame.shtml "Axis Video Server"
-
-index" of /attacker country:israel morocco"
-index of  /admin/index.php israel morocco cybercrime
-morocco advanced persistent threat
 https://www.csoonline.com/article/2139598/sleuthcon-cybercrime-emerges-in-morocco-and-law-enforcement-gets-creative.html
 -------------------------------------------------------
 https://myaccount.google.com/u/1/signinoptions/rescuephone?
