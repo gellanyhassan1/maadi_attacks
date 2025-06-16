@@ -1,3 +1,6 @@
+https://www.virustotal.com/graph/g79d492e5e7bd44ec87965261e319ed9e531943d5cd314608b6b8ebd0069a72e9
+https://www.virustotal.com/gui/collection/c54c27c7ac1acc03b426b37a1103ee701af746172727d103dba154ced01619b4/iocs
+
 stolen my phone number : 00201016029799 from vodafone attacker  to hacking my facebook,google,github,gitlab,etc 
 stolen my phone number : 00201147766447 from etisalte  attacker to hacking my facebook,google,github,gitlab,etc 
 https://github.com/gellanyhassan1/maadi_attacks
