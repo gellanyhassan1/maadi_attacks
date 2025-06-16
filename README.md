@@ -327,86 +327,11 @@ D - Collecting the full names and mobile phone numbers after the three strings, 
 #maadi_acoustic_cybercrime_attacks
 #acoustic_digital_forensics_ultrasonic_firewall
 
-شاهد اثبات لحظه مكالمه بين شخص يدعو اسامه مع حلمي اشرف حلمي محمد فرج وعند الانتهاء من المكالمه وانا في الطابق الاسفل من حلمي اشرف حلمي محمد فرج بعدها بدقائق اعاده المكالمه بجوده عاليه جدا ولكن بطرف صوتي وحيد ( حلمي اشرف حلمي محمد فرج) بتسمع المكالمه من اجهزه موبيل ساميه حلمي محمد فرج وسمير في الشقه المقابله بدون التنصت عليهم , 
-شاهد الاثبات : لحظه تواجدي يوم 23/3/2024 امام بعض كاميرات مراقبه داخليه لمسجد حسن صدقي - المعادي 
+
 ---------------------------------------------------------------------
-"حق يقين :  "لا كلام مع الجن والانسان هذه لسان و هذه لسان 
-الاثبات : لايمكن التكلم مع الحيوانات او التخاطب معها في العالم الملموس الحقيقي من حولنا مهما بلغت التقنيات ولذلك لايمكن التحدث مع الجن في العالم الغير ملموس مع الانسان - انتهي الاثبات
------------------------------------------------------------------------
-شهود
-انس جابر عبد الحميد
-مجلس اداره في مكتب المحماه /  Links & Gains
----------------------------------------------------------------------
-اسماء المتورطين والمشتبه فيهم للدرجه الاولي
-Andrew Auernheimer [weev] “Anonymous_NeoNazi_Stuxnet”
-ricky camilleri “Anonymous_NeoNazi_Stuxnet”
-Erik Jacob van Sabben “Anonymous_NeoNazi_Stuxnet"
-Yossi Sariel “Anonymous_Stuxnet”
-Yossi cohen “Anonymous_Stuxnet”
-Avigayil Mechtinger “Stuxnet_Sysjoker”
-Nicole Fishbein “Stuxnet_Sysjoker”
-Ido Solomon "inje3t0r3"
-Ori Hamama "inje3t0r3"
-Omer Ventura "inje3t0r3"
-Ahmed El-Sayid El-Mandouh, popularly known as Ahmed “Spider.”
-“Anonymous_SpyCamera_Pegasus”
-Monalisa Octocat “metasploit_modules_developer/contributing_Rail_on_Ruby"
-Nona Said "Facebook_Employee/Anonymous"
-ehab shakery armani
-Helmy Ashref Helmy Mohamed Farag “Anonymous_Showmang_SpyCamera_Pegasus”
-Ahmed Ashref Helmy Mohamed Farag “Anonymous_Showmang_SpyCamera_Pegasus”
-Mohamoud Samir “Anonymous_Showmang_SpyCamera_Pegasus”
-Amr Abdel Shakour Ahmed Mohamed "Data_exfiltration/Data_ID Spoofer"
-Faten Abdel Shakour Ahmed Mohamed "unfaithful wife""Data_exfiltration/Data_ID Spoofer" hidden Sexual Relationship  with Ahmed Hamey "English Teacher"
-Alaa Mohamed Ahmed Mohamed "Data_exfiltration/Data_ID Spoofer"
-ِAieman Mohamed ElSayed
-Omnia Ragab "Data_exfiltration/Data_ID Spoofer"
-Ahmed Ragab "BP_employee/Data_exfiltration" 
 https://www.youtube.com/watch?v=37oBowW7vyQ
 https://english.ahram.org.eg/NewsContent/1/64/31488/Egypt/Politics-/Revolutionary-activists-take-fight-into-cyberspace.aspx
-https://malpedia.caad.fkie.fraunhofer.de/actor/unit_8200
-
-علي عبد الونيس
-توفيق عكاشه
-اليوتيوبر / احمد مندو الشهير باحمد سبيدر
-اليوتيوبر / احمد حسن وزوجنه زينب
-نرمين عادل 
-مهندس بترول : ايمن محسن
-مهندس بترول : محمود سيد
-موظف في شركه بترول : احمد رجب
-اللواء سامح نبيل مدير إدارة المعلومات بقطاع الأمن 
-العقيد أحمد عبد العزيز، رئيسًا لمباحث التلفزيون 
-مدير مباحث العاصمه السابق اللواء / عمرو إبراهيم
-لواء مهندس /أحمد عدلى أحمد محمد – مساعد وزير الدلخليه لقطاع نظم الإتصالات وتكنولوجيا المعلومات
-مدير مباحث البساتين السابق / أحمد طارق العسكري
-مدير مباحث دار السلام السابق / وسام عطية
-مدير مباحث المعادي / اسلام بكر
-نائب مامور قسم البساتين / محمد مصطفي 
-ضابط مباحث قسم شرطة البساتين / كمال محمد كمال سليم
-معاون مباحث قسم البساتين / وليد محمود محمد سليم
-امنيه رجب صديقه فاتن عبد الشكور احمد محمد واخوها احمد رجب 
-عبد الشكور احمد محمد
-ساميه حلمي محمد فرج
-محمود سمير حسنيين واحمد سمير حسنيين ابناء ساميه حلمي محمد فرج
-حلمي اشرف حلمي محمد فرج
-احمد اشرف حلمي محمد فرج
-محامي / علاء محمد احمد محمد
-زوجه واقارب محامي / علاء محمد احمد محمد
-دكتور / محمد السعد الرفاعي
-العامليين والمالكين بمستشفي /مستشفى بنها للصحة النفسية وعلاج الإدمان
-العامليين والمالكين بمستشفي / مصحة النيل للصحة النفسية
-العامليين والمدعيين في مكتب المحماه / علاء محمد احمد محمد
-احمد حسن سيد محمد
-ساره حسن سيد محمد
-مصطفي سعيد
-اسامه عمر
-هند الباز
-ايمان محمود
-ريم سعيد العسال 
-رامي سعيد العسال
-احمد حمدي (مدرس لغه انجليزي)
-ايمان محمد السيد  
-بعض العاملين بمطاعم ماكدنولذ وبيتزا هت (شارع 9 المعادي)  
+https://malpedia.caad.fkie.fraunhofer.de/actor/unit_8200 
 ---------------------------------------------------------------------
 https://attack.mitre.org/tactics/enterprise/
 -------------------------------------------------------------
