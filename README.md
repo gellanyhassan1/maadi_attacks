@@ -1,3 +1,7 @@
+fact : Air_Defense_Command_Ben_gurion_university_(Israel) not related and not equivalent https://intezer.com/
+sorry and appreciated work with thanx : 
+Avigayil Mechtinger and intezer.com platform
+
 https://www.virustotal.com/graph/g79d492e5e7bd44ec87965261e319ed9e531943d5cd314608b6b8ebd0069a72e9
 https://www.virustotal.com/gui/collection/c54c27c7ac1acc03b426b37a1103ee701af746172727d103dba154ced01619b4/iocs
 
