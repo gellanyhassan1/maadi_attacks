@@ -1,3 +1,4 @@
+https://www.facebook.com/gellanyhassan0/posts/pfbid0qS83EWbhghkXzo1BoKauZye6rVH6qD55ZovmnYtRWypPgVXXfpFPjVKTpXzT2vcdl
 my stolen number 00201016029799/00201147766447 and Intellectual property of all mylife work from dirty operation of mossad , Iranian Revolutionary Guard and other intelligences in egypt
 final case : witness of murdering case of 18 person in 36 hamid nafaa st - ahmed zaky st - maadi - cairo - egypt
 1st fact : validations from deep threat intelligence analysis [Maadi-Cairo-Egypt]
